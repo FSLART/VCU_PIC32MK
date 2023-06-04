@@ -1,0 +1,3 @@
+# VCU
+
+The Vehicle Control Unit (VCU) will be developed in-house rather than purchased to ensure greater control over the processing of algorithms for calculating torque/RPM, traction control, and overall vehicle control. The platform chosen for this development is STM32, which offers a wide range of built-in peripherals and acceleration of math/arithmetic functions, such as the CORDIC coprocessor for trigonometric functions and the FMAC unit for filter functions. Additionally, the VCU receives algorithms for autonomous driving and controls the car accordingly. To access all necessary data, the VCU has access to the car’s three CAN bus systems. It also features mechanical fault detection with critical system signals and checksum.
