@@ -1,4 +1,5 @@
 Record=TopLevelDocument|FileName=CAN.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=H_Bridge.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=OUTPUTs.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=CAN.SchDoc|FileName=POWER.SchDoc|SheetNumber=2
