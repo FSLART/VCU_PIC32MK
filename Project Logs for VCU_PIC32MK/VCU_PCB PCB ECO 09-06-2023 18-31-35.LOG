@@ -1,0 +1,4 @@
+Added Component: Designator=R106(RES_0805)
+Added Pin To Net: NetName=NetC108_2 Pin=R106-1
+Added Pin To Net: NetName=OSCO Pin=R106-2
+Added Member To Class: ClassName=MCU Member=Component R106 ??

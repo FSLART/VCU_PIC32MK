@@ -1,0 +1,982 @@
+Added Component: Designator=C15(CAP_0805)
+Added Component: Designator=C16(CAP_0805)
+Added Component: Designator=C17(CAP_0805)
+Added Component: Designator=C18(CAP_0805)
+Added Component: Designator=C19(CAP_0805)
+Added Component: Designator=C20(CAP_0805)
+Added Component: Designator=C21(CAP_0805)
+Added Component: Designator=C22(CAP_0805)
+Added Component: Designator=C23(CAP_0805)
+Added Component: Designator=C24(CAP_0805)
+Added Component: Designator=C25(CAP_0805)
+Added Component: Designator=C26(CAP_0805)
+Added Component: Designator=C27(CAP_0805)
+Added Component: Designator=C28(CAP_0805)
+Added Component: Designator=C29(CAP_0805)
+Added Component: Designator=C30(CAP_0805)
+Added Component: Designator=C31(CAP_0805)
+Added Component: Designator=C32(CAP_0805)
+Added Component: Designator=C33(CAP_0805)
+Added Component: Designator=C34(CAP_0805)
+Added Component: Designator=C35(CAP_0805)
+Added Component: Designator=C100(CAP_0805)
+Added Component: Designator=C101(CAP_0805)
+Added Component: Designator=C102(CAP_0805)
+Added Component: Designator=C103(CAP_0805)
+Added Component: Designator=C104(CAP_0805)
+Added Component: Designator=C105(CAP_0805)
+Added Component: Designator=C106(CAP_0805)
+Added Component: Designator=C107(CAP_0805)
+Added Component: Designator=C108(CAP_0805)
+Added Component: Designator=C109(CAP_0805)
+Added Component: Designator=C110(CAP_0805)
+Added Component: Designator=C111(CAP_0805)
+Added Component: Designator=C112(CAP_0805)
+Added Component: Designator=C113(CAP_0805)
+Added Component: Designator=D5(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D7(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D9(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D10(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D11(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D12(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D13(DO-214AC-2 (SMA))
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D14(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D100(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D101(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D102(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D103(LEDC2012X120N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lumex Opto/Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SML-LXT0805IW-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Lumex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SML-LXT0805IW-TR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SML-LXT0805IW-TR/Lumex+Opto%252FComponents+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F100(FUSE_1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=F101(FUSE_1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOT230P700X180-4N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC5239-3.3YS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic5239-3.3ys-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/en/DeviceDoc/mic5239.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC5239-3.3YS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "998-MIC5239-3.3YSTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Micrel/MIC5239-33YS-TR?qs=U6T8BxXiZAXN0UitWWB92A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC4(SON65P300X300X100-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2542fd-emf/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2542FD-E-MF?qs=l7cgNqFNU1jog4BwTzULBw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC5(SON65P300X300X100-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2542fd-emf/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2542FD-E-MF?qs=l7cgNqFNU1jog4BwTzULBw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(SON65P300X300X100-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2542fd-emf/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2542FD-E-MF?qs=l7cgNqFNU1jog4BwTzULBw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC7(SON65P300X300X100-9N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2542fd-emf/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005514a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2542FD-E/MF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2542FD-E-MF?qs=l7cgNqFNU1jog4BwTzULBw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC8(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp1405-esn/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090019.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP1405-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1405-E-SN?qs=usxtMOJb1Rz6iJkGGONxgg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC9(SOP65P640X120-16N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MIC4606-2YTS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mic4606-2yts-tr/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/268/20005604B-1286645.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MIC4606-2YTS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MIC4606-2YTS-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MIC4606-2YTS-TR?qs=fxR7EJxuiMGiGNq6G0IdXQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC100(QFP50P1200X1200X120-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic32mk1024mcm064-ipt/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/PIC32MK-GPK-MCM-with-CAN-FD-Family-DataSheet-DS60001519E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-2MK1024MCM064IPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC32MK1024MCM064-I-PT?qs=W%2FMpXkg%252BdQ4dBI32NJdQMg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC101(SOP65P640X120-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2221a-ist/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/devicedoc/20005565b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2221A-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP2221A-I-ST?qs=ZEMkBHnybREMkqMgzOrcGQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=j1(1981568-1)
+Added Component: Designator=J2(22017781)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "2201778-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/2201778-1/te-connectivity?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2201778%7FB%7Fpdf%7FJapanese%7FJPN_CD_2201778_B.pdf%7F2201778-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2201778-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-2201778-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2201778-1?qs=%2F6W%2F9%2FHWvcBMWWw9w8oBng%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(TE_1-776087-5)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': 'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-776087-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(TE_1-776087-5)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': 'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-776087-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(G800W302018EU)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "G800W302018EU"; VariantName = "[No Variations]"
+Added Component: Designator=J101(G800W302018EU)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "G800W302018EU"; VariantName = "[No Variations]"
+Added Component: Designator=J102(TE_2388749-1)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2388749-1/TE+Connectivity/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2388749-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2388749-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2388749-1/TE+Connectivity/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=JP1(SolderJumper_Single)
+Added Component: Designator=JP2(SolderJumper_Single)
+Added Component: Designator=JP4(SolderJumper_Single)
+Added Component: Designator=JP5(SolderJumper_Single)
+Added Component: Designator=JP6(SolderJumper_Single)
+Added Component: Designator=JP7(SolderJumper_Single)
+Added Component: Designator=JP8(SolderJumper_Single)
+Added Component: Designator=JP9(SolderJumper_Single)
+Added Component: Designator=JP10(SolderJumper_Single)
+Added Component: Designator=JP11(SolderJumper_Single)
+Added Component: Designator=JP12(SolderJumper_Single)
+Added Component: Designator=JP13(SolderJumper_Single)
+Added Component: Designator=JP100(SolderJumper_Single)
+Added Component: Designator=JP101(SolderJumper_Single)
+Added Component: Designator=JP102(SolderJumper_Single)
+Added Component: Designator=PS1(R78E5005)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/r-78e5.0-0.5/recom-power?region=europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/1560217c2d38d5ce10907af13420fc49.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "RECOM Power"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "919-R-78E5.0-0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/RECOM-Power/R-78E5.0-0.5?qs=JeAkOuORR2UvBuiB2kZVZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(DMP3028LK313)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3028lk3-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/DMP3028LK3-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.39mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3028LK3-13?qs=OVC8WVYZliSFpRP3sPErZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(DMP3028LK313)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3028lk3-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/DMP3028LK3-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.39mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3028LK3-13?qs=OVC8WVYZliSFpRP3sPErZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(DMP3028LK313)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3028lk3-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/DMP3028LK3-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.39mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3028LK3-13?qs=OVC8WVYZliSFpRP3sPErZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(DPAK_(SINGLE-GAUGE)_TO-252(369C)_ISSUE_F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nvd5c478nt4g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NVD5C478N-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NVD5C478NT4G/?qs=y6ZabgHbY%252Bxvq0EyOcHTlg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(DPAK_(SINGLE-GAUGE)_TO-252(369C)_ISSUE_F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nvd5c478nt4g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NVD5C478N-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NVD5C478NT4G/?qs=y6ZabgHbY%252Bxvq0EyOcHTlg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(DMP3028LK313)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/dmp3028lk3-13/diodes-incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/DMP3028LK3-13.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.39mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "621-DMP3028LK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMP3028LK3-13?qs=OVC8WVYZliSFpRP3sPErZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES_0805)
+Added Component: Designator=R18(RES_0805)
+Added Component: Designator=R19(RES_0805)
+Added Component: Designator=R20(RES_0805)
+Added Component: Designator=R21(RES_0805)
+Added Component: Designator=R22(RES_0805)
+Added Component: Designator=R23(RES_0805)
+Added Component: Designator=R24(RES_0805)
+Added Component: Designator=R25(RES_0805)
+Added Component: Designator=R26(RES_0805)
+Added Component: Designator=R27(RES_0805)
+Added Component: Designator=R28(RES_0805)
+Added Component: Designator=R29(RES_0805)
+Added Component: Designator=R30(RES_0805)
+Added Component: Designator=R31(RES_0805)
+Added Component: Designator=R32(RES_0805)
+Added Component: Designator=R33(RES_0805)
+Added Component: Designator=R34(RES_0805)
+Added Component: Designator=R35(RES_0805)
+Added Component: Designator=R36(RES_0805)
+Added Component: Designator=R37(RES_0805)
+Added Component: Designator=R100(RES_0805)
+Added Component: Designator=R101(RES_0805)
+Added Component: Designator=R102(RES_0805)
+Added Component: Designator=R103(RES_0805)
+Added Component: Designator=R104(RES_0805)
+Added Component: Designator=R105(RES_0805)
+Added Component: Designator=R106(RES_0805)
+Added Component: Designator=R107(RES_0805)
+Added Component: Designator=R108(RES_0805)
+Added Component: Designator=R109(RES_0805)
+Added Component: Designator=R110(RES_0805)
+Added Component: Designator=R111(RES_0805)
+Added Component: Designator=R112(RES_0805)
+Added Component: Designator=R113(RES_0805)
+Added Component: Designator=R114(RES_0805)
+Added Component: Designator=R115(RES_0805)
+Added Component: Designator=S3(23198474)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=2319847&DocType=Customer+Drawing&DocLang=English&PartCntxt=2-2319847-4&DocFormat=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2319847-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S100(SW_1437566-4)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1437566-4/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1437566-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1437566-4/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S101(SW_1437566-4)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1437566-4/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1437566-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1437566-4/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y100(ABM38000MHZC4T)
+Added Pin To Net: NetName=+3v3 Pin=C17-2
+Added Pin To Net: NetName=+3v3 Pin=C18-2
+Added Pin To Net: NetName=+3v3 Pin=C20-2
+Added Pin To Net: NetName=+3v3 Pin=C22-2
+Added Pin To Net: NetName=+3v3 Pin=C24-2
+Added Pin To Net: NetName=+3v3 Pin=C100-1
+Added Pin To Net: NetName=+3v3 Pin=C101-1
+Added Pin To Net: NetName=+3v3 Pin=C102-1
+Added Pin To Net: NetName=+3v3 Pin=C106-2
+Added Pin To Net: NetName=+3v3 Pin=C109-1
+Added Pin To Net: NetName=+3v3 Pin=C111-2
+Added Pin To Net: NetName=+3v3 Pin=C112-2
+Added Pin To Net: NetName=+3v3 Pin=C113-1
+Added Pin To Net: NetName=+3v3 Pin=IC3-3
+Added Pin To Net: NetName=+3v3 Pin=IC4-5
+Added Pin To Net: NetName=+3v3 Pin=IC5-5
+Added Pin To Net: NetName=+3v3 Pin=IC6-5
+Added Pin To Net: NetName=+3v3 Pin=IC7-5
+Added Pin To Net: NetName=+3v3 Pin=IC100-10
+Added Pin To Net: NetName=+3v3 Pin=IC100-19
+Added Pin To Net: NetName=+3v3 Pin=IC100-26
+Added Pin To Net: NetName=+3v3 Pin=IC100-35
+Added Pin To Net: NetName=+3v3 Pin=IC100-38
+Added Pin To Net: NetName=+3v3 Pin=IC100-57
+Added Pin To Net: NetName=+3v3 Pin=J2-4
+Added Pin To Net: NetName=+3v3 Pin=J5-1
+Added Pin To Net: NetName=+3v3 Pin=J101-3
+Added Pin To Net: NetName=+3v3 Pin=R22-2
+Added Pin To Net: NetName=+3v3 Pin=R23-2
+Added Pin To Net: NetName=+3v3 Pin=R24-2
+Added Pin To Net: NetName=+3v3 Pin=R25-2
+Added Pin To Net: NetName=+3v3 Pin=R26-2
+Added Pin To Net: NetName=+3v3 Pin=R105-2
+Added Pin To Net: NetName=+3v3 Pin=R109-2
+Added Pin To Net: NetName=+3v3 Pin=R110-2
+Added Pin To Net: NetName=+3v3 Pin=R111-2
+Added Net: Name=+3v3
+Added Pin To Net: NetName=+5V Pin=C16-2
+Added Pin To Net: NetName=+5V Pin=C19-2
+Added Pin To Net: NetName=+5V Pin=C21-2
+Added Pin To Net: NetName=+5V Pin=C23-2
+Added Pin To Net: NetName=+5V Pin=C25-2
+Added Pin To Net: NetName=+5V Pin=C103-1
+Added Pin To Net: NetName=+5V Pin=C110-1
+Added Pin To Net: NetName=+5V Pin=D6-A
+Added Pin To Net: NetName=+5V Pin=F100-2
+Added Pin To Net: NetName=+5V Pin=F101-1
+Added Pin To Net: NetName=+5V Pin=IC3-1
+Added Pin To Net: NetName=+5V Pin=IC4-3
+Added Pin To Net: NetName=+5V Pin=IC5-3
+Added Pin To Net: NetName=+5V Pin=IC6-3
+Added Pin To Net: NetName=+5V Pin=IC7-3
+Added Pin To Net: NetName=+5V Pin=IC101-1
+Added Pin To Net: NetName=+5V Pin=J5-8
+Added Pin To Net: NetName=+5V Pin=J6-10
+Added Pin To Net: NetName=+5V Pin=J6-14
+Added Pin To Net: NetName=+5V Pin=JP11-2
+Added Pin To Net: NetName=+5V Pin=JP13-2
+Added Pin To Net: NetName=+5V Pin=PS1-3
+Added Pin To Net: NetName=+5V Pin=R104-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=+24VBAT Pin=D5-A
+Added Pin To Net: NetName=+24VBAT Pin=J6-20
+Added Net: Name=+24VBAT
+Added Pin To Net: NetName=+24V Pin=C15-2
+Added Pin To Net: NetName=+24V Pin=C32-1
+Added Pin To Net: NetName=+24V Pin=C33-2
+Added Pin To Net: NetName=+24V Pin=C34-2
+Added Pin To Net: NetName=+24V Pin=D5-K
+Added Pin To Net: NetName=+24V Pin=D8-K
+Added Pin To Net: NetName=+24V Pin=D9-K
+Added Pin To Net: NetName=+24V Pin=IC8-6
+Added Pin To Net: NetName=+24V Pin=IC9-2
+Added Pin To Net: NetName=+24V Pin=IC9-12
+Added Pin To Net: NetName=+24V Pin=JP10-2
+Added Pin To Net: NetName=+24V Pin=JP12-2
+Added Pin To Net: NetName=+24V Pin=PS1-1
+Added Pin To Net: NetName=+24V Pin=Q2-3
+Added Pin To Net: NetName=+24V Pin=Q3-3
+Added Net: Name=+24V
+Added Pin To Net: NetName=+VBUS Pin=F100-1
+Added Pin To Net: NetName=+VBUS Pin=F101-2
+Added Pin To Net: NetName=+VBUS Pin=j1-1
+Added Pin To Net: NetName=+VBUS Pin=J102-A4
+Added Pin To Net: NetName=+VBUS Pin=J102-A9
+Added Pin To Net: NetName=+VBUS Pin=J102-B4
+Added Pin To Net: NetName=+VBUS Pin=J102-B9
+Added Pin To Net: NetName=+VBUS Pin=JP102-2
+Added Net: Name=+VBUS
+Added Pin To Net: NetName=AN_0 Pin=C26-2
+Added Pin To Net: NetName=AN_0 Pin=IC100-13
+Added Pin To Net: NetName=AN_0 Pin=R22-1
+Added Pin To Net: NetName=AN_0 Pin=R27-1
+Added Net: Name=AN_0
+Added Pin To Net: NetName=AN_3 Pin=C27-2
+Added Pin To Net: NetName=AN_3 Pin=IC100-16
+Added Pin To Net: NetName=AN_3 Pin=R23-1
+Added Pin To Net: NetName=AN_3 Pin=R28-1
+Added Net: Name=AN_3
+Added Pin To Net: NetName=AN_9 Pin=C28-2
+Added Pin To Net: NetName=AN_9 Pin=IC100-12
+Added Pin To Net: NetName=AN_9 Pin=R24-1
+Added Pin To Net: NetName=AN_9 Pin=R29-1
+Added Net: Name=AN_9
+Added Pin To Net: NetName=AN_12 Pin=C29-2
+Added Pin To Net: NetName=AN_12 Pin=IC100-28
+Added Pin To Net: NetName=AN_12 Pin=R25-1
+Added Pin To Net: NetName=AN_12 Pin=R30-1
+Added Net: Name=AN_12
+Added Pin To Net: NetName=AN_13 Pin=C30-2
+Added Pin To Net: NetName=AN_13 Pin=IC100-27
+Added Pin To Net: NetName=AN_13 Pin=R26-1
+Added Pin To Net: NetName=AN_13 Pin=R31-1
+Added Net: Name=AN_13
+Added Pin To Net: NetName=APWM Pin=IC9-6
+Added Pin To Net: NetName=APWM Pin=JP1-1
+Added Net: Name=APWM
+Added Pin To Net: NetName=BPWM Pin=IC9-3
+Added Pin To Net: NetName=BPWM Pin=JP2-1
+Added Net: Name=BPWM
+Added Pin To Net: NetName=C_AN_0 Pin=J6-7
+Added Pin To Net: NetName=C_AN_0 Pin=R27-2
+Added Net: Name=C_AN_0
+Added Pin To Net: NetName=C_AN_3 Pin=J6-15
+Added Pin To Net: NetName=C_AN_3 Pin=R28-2
+Added Net: Name=C_AN_3
+Added Pin To Net: NetName=C_AN_9 Pin=J6-22
+Added Pin To Net: NetName=C_AN_9 Pin=R29-2
+Added Net: Name=C_AN_9
+Added Pin To Net: NetName=C_AN_12 Pin=J6-8
+Added Pin To Net: NetName=C_AN_12 Pin=R30-2
+Added Net: Name=C_AN_12
+Added Pin To Net: NetName=C_AN_13 Pin=J6-23
+Added Pin To Net: NetName=C_AN_13 Pin=R31-2
+Added Net: Name=C_AN_13
+Added Pin To Net: NetName=CANH_0 Pin=IC4-7
+Added Pin To Net: NetName=CANH_0 Pin=J6-3
+Added Pin To Net: NetName=CANH_0 Pin=R18-1
+Added Net: Name=CANH_0
+Added Pin To Net: NetName=CANH_1 Pin=IC5-7
+Added Pin To Net: NetName=CANH_1 Pin=J6-18
+Added Pin To Net: NetName=CANH_1 Pin=R19-1
+Added Net: Name=CANH_1
+Added Pin To Net: NetName=CANH_2 Pin=IC6-7
+Added Pin To Net: NetName=CANH_2 Pin=J6-12
+Added Pin To Net: NetName=CANH_2 Pin=R20-1
+Added Net: Name=CANH_2
+Added Pin To Net: NetName=CANH_3 Pin=IC7-7
+Added Pin To Net: NetName=CANH_3 Pin=J6-5
+Added Pin To Net: NetName=CANH_3 Pin=R21-1
+Added Net: Name=CANH_3
+Added Pin To Net: NetName=CANL_0 Pin=IC4-6
+Added Pin To Net: NetName=CANL_0 Pin=J6-11
+Added Pin To Net: NetName=CANL_0 Pin=S3-8
+Added Net: Name=CANL_0
+Added Pin To Net: NetName=CANL_1 Pin=IC5-6
+Added Pin To Net: NetName=CANL_1 Pin=J6-4
+Added Pin To Net: NetName=CANL_1 Pin=S3-7
+Added Net: Name=CANL_1
+Added Pin To Net: NetName=CANL_2 Pin=IC6-6
+Added Pin To Net: NetName=CANL_2 Pin=J6-19
+Added Pin To Net: NetName=CANL_2 Pin=S3-6
+Added Net: Name=CANL_2
+Added Pin To Net: NetName=CANL_3 Pin=IC7-6
+Added Pin To Net: NetName=CANL_3 Pin=J6-13
+Added Pin To Net: NetName=CANL_3 Pin=S3-5
+Added Net: Name=CANL_3
+Added Pin To Net: NetName=D2_N Pin=IC101-12
+Added Pin To Net: NetName=D2_N Pin=j1-2
+Added Net: Name=D2_N
+Added Pin To Net: NetName=D2_P Pin=IC101-13
+Added Pin To Net: NetName=D2_P Pin=j1-3
+Added Net: Name=D2_P
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C100-2
+Added Pin To Net: NetName=GND Pin=C101-2
+Added Pin To Net: NetName=GND Pin=C102-2
+Added Pin To Net: NetName=GND Pin=C103-2
+Added Pin To Net: NetName=GND Pin=C104-1
+Added Pin To Net: NetName=GND Pin=C105-1
+Added Pin To Net: NetName=GND Pin=C106-1
+Added Pin To Net: NetName=GND Pin=C107-1
+Added Pin To Net: NetName=GND Pin=C108-1
+Added Pin To Net: NetName=GND Pin=C109-2
+Added Pin To Net: NetName=GND Pin=C110-2
+Added Pin To Net: NetName=GND Pin=C111-1
+Added Pin To Net: NetName=GND Pin=C112-1
+Added Pin To Net: NetName=GND Pin=C113-2
+Added Pin To Net: NetName=GND Pin=D7-A
+Added Pin To Net: NetName=GND Pin=D11-A
+Added Pin To Net: NetName=GND Pin=D12-A
+Added Pin To Net: NetName=GND Pin=D13-A
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=GND Pin=IC4-2
+Added Pin To Net: NetName=GND Pin=IC4-8
+Added Pin To Net: NetName=GND Pin=IC4-9
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=GND Pin=IC5-8
+Added Pin To Net: NetName=GND Pin=IC5-9
+Added Pin To Net: NetName=GND Pin=IC6-2
+Added Pin To Net: NetName=GND Pin=IC6-8
+Added Pin To Net: NetName=GND Pin=IC6-9
+Added Pin To Net: NetName=GND Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC7-8
+Added Pin To Net: NetName=GND Pin=IC7-9
+Added Pin To Net: NetName=GND Pin=IC8-3
+Added Pin To Net: NetName=GND Pin=IC9-13
+Added Pin To Net: NetName=GND Pin=IC100-9
+Added Pin To Net: NetName=GND Pin=IC100-20
+Added Pin To Net: NetName=GND Pin=IC100-25
+Added Pin To Net: NetName=GND Pin=IC100-41
+Added Pin To Net: NetName=GND Pin=IC100-56
+Added Pin To Net: NetName=GND Pin=IC101-14
+Added Pin To Net: NetName=GND Pin=j1-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-15
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J5-12
+Added Pin To Net: NetName=GND Pin=J5-23
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=J6-17
+Added Pin To Net: NetName=GND Pin=J6-21
+Added Pin To Net: NetName=GND Pin=J101-2
+Added Pin To Net: NetName=GND Pin=J102-A1
+Added Pin To Net: NetName=GND Pin=J102-A12
+Added Pin To Net: NetName=GND Pin=J102-B1
+Added Pin To Net: NetName=GND Pin=J102-B12
+Added Pin To Net: NetName=GND Pin=J102-S1
+Added Pin To Net: NetName=GND Pin=J102-S2
+Added Pin To Net: NetName=GND Pin=J102-S3
+Added Pin To Net: NetName=GND Pin=J102-S4
+Added Pin To Net: NetName=GND Pin=PS1-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=GND Pin=R100-1
+Added Pin To Net: NetName=GND Pin=R101-1
+Added Pin To Net: NetName=GND Pin=R102-1
+Added Pin To Net: NetName=GND Pin=R103-1
+Added Pin To Net: NetName=GND Pin=R108-1
+Added Pin To Net: NetName=GND Pin=R112-2
+Added Pin To Net: NetName=GND Pin=R113-2
+Added Pin To Net: NetName=GND Pin=R114-2
+Added Pin To Net: NetName=GND Pin=R115-1
+Added Pin To Net: NetName=GND Pin=S100-1
+Added Net: Name=GND
+Added Pin To Net: NetName=INT_1 Pin=IC100-30
+Added Pin To Net: NetName=INT_1 Pin=J5-15
+Added Net: Name=INT_1
+Added Pin To Net: NetName=INT_2 Pin=IC100-29
+Added Pin To Net: NetName=INT_2 Pin=J5-22
+Added Net: Name=INT_2
+Added Pin To Net: NetName=INT_3 Pin=IC100-31
+Added Pin To Net: NetName=INT_3 Pin=J5-7
+Added Net: Name=INT_3
+Added Pin To Net: NetName=INT_4 Pin=IC100-32
+Added Pin To Net: NetName=INT_4 Pin=J5-21
+Added Net: Name=INT_4
+Added Pin To Net: NetName=LED_A Pin=D100-A
+Added Pin To Net: NetName=LED_A Pin=IC100-48
+Added Net: Name=LED_A
+Added Pin To Net: NetName=LED_B Pin=D101-A
+Added Pin To Net: NetName=LED_B Pin=IC100-47
+Added Net: Name=LED_B
+Added Pin To Net: NetName=LED_C Pin=D102-A
+Added Pin To Net: NetName=LED_C Pin=IC100-23
+Added Net: Name=LED_C
+Added Pin To Net: NetName=LED_D Pin=D103-A
+Added Pin To Net: NetName=LED_D Pin=IC100-24
+Added Net: Name=LED_D
+Added Pin To Net: NetName=MCLR Pin=IC100-7
+Added Pin To Net: NetName=MCLR Pin=J101-6
+Added Pin To Net: NetName=MCLR Pin=R107-2
+Added Net: Name=MCLR
+Added Pin To Net: NetName=MOSFET_A Pin=D10-A
+Added Pin To Net: NetName=MOSFET_A Pin=J5-19
+Added Pin To Net: NetName=MOSFET_A Pin=Q1-2
+Added Net: Name=MOSFET_A
+Added Pin To Net: NetName=MOSFET_B Pin=D14-A
+Added Pin To Net: NetName=MOSFET_B Pin=J5-5
+Added Pin To Net: NetName=MOSFET_B Pin=Q6-2
+Added Net: Name=MOSFET_B
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=IC9-1
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=D7-K
+Added Pin To Net: NetName=NetC31_2 Pin=D8-A
+Added Pin To Net: NetName=NetC31_2 Pin=D11-K
+Added Pin To Net: NetName=NetC31_2 Pin=IC9-15
+Added Pin To Net: NetName=NetC31_2 Pin=J5-13
+Added Pin To Net: NetName=NetC31_2 Pin=Q3-2
+Added Pin To Net: NetName=NetC31_2 Pin=Q5-3
+Added Net: Name=NetC31_2
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=IC9-8
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=NetC35_2 Pin=D9-A
+Added Pin To Net: NetName=NetC35_2 Pin=D12-K
+Added Pin To Net: NetName=NetC35_2 Pin=D13-K
+Added Pin To Net: NetName=NetC35_2 Pin=IC9-10
+Added Pin To Net: NetName=NetC35_2 Pin=J5-20
+Added Pin To Net: NetName=NetC35_2 Pin=Q2-2
+Added Pin To Net: NetName=NetC35_2 Pin=Q4-3
+Added Net: Name=NetC35_2
+Added Pin To Net: NetName=NetC104_2 Pin=C104-2
+Added Pin To Net: NetName=NetC104_2 Pin=IC101-11
+Added Net: Name=NetC104_2
+Added Pin To Net: NetName=NetC105_2 Pin=C105-2
+Added Pin To Net: NetName=NetC105_2 Pin=R105-1
+Added Pin To Net: NetName=NetC105_2 Pin=R107-1
+Added Pin To Net: NetName=NetC105_2 Pin=S100-2
+Added Net: Name=NetC105_2
+Added Pin To Net: NetName=NetC108_2 Pin=C108-2
+Added Pin To Net: NetName=NetC108_2 Pin=R106-1
+Added Pin To Net: NetName=NetC108_2 Pin=Y100-2
+Added Net: Name=NetC108_2
+Added Pin To Net: NetName=NetD6_C Pin=D6-C
+Added Pin To Net: NetName=NetD6_C Pin=R17-1
+Added Net: Name=NetD6_C
+Added Pin To Net: NetName=NetD10_C Pin=D10-C
+Added Pin To Net: NetName=NetD10_C Pin=R33-2
+Added Net: Name=NetD10_C
+Added Pin To Net: NetName=NetD14_C Pin=D14-C
+Added Pin To Net: NetName=NetD14_C Pin=R37-2
+Added Net: Name=NetD14_C
+Added Pin To Net: NetName=NetD100_C Pin=D100-C
+Added Pin To Net: NetName=NetD100_C Pin=R100-2
+Added Net: Name=NetD100_C
+Added Pin To Net: NetName=NetD101_C Pin=D101-C
+Added Pin To Net: NetName=NetD101_C Pin=R101-2
+Added Net: Name=NetD101_C
+Added Pin To Net: NetName=NetD102_C Pin=D102-C
+Added Pin To Net: NetName=NetD102_C Pin=R102-2
+Added Net: Name=NetD102_C
+Added Pin To Net: NetName=NetD103_C Pin=D103-C
+Added Pin To Net: NetName=NetD103_C Pin=R103-2
+Added Net: Name=NetD103_C
+Added Pin To Net: NetName=NetIC9_9 Pin=IC9-9
+Added Pin To Net: NetName=NetIC9_9 Pin=Q2-1
+Added Net: Name=NetIC9_9
+Added Pin To Net: NetName=NetIC9_11 Pin=IC9-11
+Added Pin To Net: NetName=NetIC9_11 Pin=Q4-1
+Added Net: Name=NetIC9_11
+Added Pin To Net: NetName=NetIC9_14 Pin=IC9-14
+Added Pin To Net: NetName=NetIC9_14 Pin=Q5-1
+Added Net: Name=NetIC9_14
+Added Pin To Net: NetName=NetIC9_16 Pin=IC9-16
+Added Pin To Net: NetName=NetIC9_16 Pin=Q3-1
+Added Net: Name=NetIC9_16
+Added Pin To Net: NetName=NetIC100_8 Pin=IC100-8
+Added Pin To Net: NetName=NetIC100_8 Pin=J7-1
+Added Net: Name=NetIC100_8
+Added Pin To Net: NetName=NetIC100_33 Pin=IC100-33
+Added Pin To Net: NetName=NetIC100_33 Pin=S101-2
+Added Net: Name=NetIC100_33
+Added Pin To Net: NetName=NetIC100_34 Pin=IC100-34
+Added Pin To Net: NetName=NetIC100_34 Pin=JP102-1
+Added Net: Name=NetIC100_34
+Added Pin To Net: NetName=NetIC100_49 Pin=IC100-49
+Added Pin To Net: NetName=NetIC100_49 Pin=J7-2
+Added Net: Name=NetIC100_49
+Added Pin To Net: NetName=NetIC100_64 Pin=IC100-64
+Added Pin To Net: NetName=NetIC100_64 Pin=J7-3
+Added Net: Name=NetIC100_64
+Added Pin To Net: NetName=NetIC101_4 Pin=IC101-4
+Added Pin To Net: NetName=NetIC101_4 Pin=R104-1
+Added Net: Name=NetIC101_4
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=JP6-2
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=JP9-2
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_10 Pin=J5-10
+Added Pin To Net: NetName=NetJ5_10 Pin=JP5-2
+Added Net: Name=NetJ5_10
+Added Pin To Net: NetName=NetJ5_11 Pin=J5-11
+Added Pin To Net: NetName=NetJ5_11 Pin=JP7-2
+Added Net: Name=NetJ5_11
+Added Pin To Net: NetName=NetJ5_16 Pin=J5-16
+Added Pin To Net: NetName=NetJ5_16 Pin=JP4-2
+Added Net: Name=NetJ5_16
+Added Pin To Net: NetName=NetJ5_18 Pin=J5-18
+Added Pin To Net: NetName=NetJ5_18 Pin=JP8-2
+Added Net: Name=NetJ5_18
+Added Pin To Net: NetName=NetJ102_A5 Pin=J102-A5
+Added Pin To Net: NetName=NetJ102_A5 Pin=R113-1
+Added Net: Name=NetJ102_A5
+Added Pin To Net: NetName=NetJ102_B5 Pin=J102-B5
+Added Pin To Net: NetName=NetJ102_B5 Pin=R112-1
+Added Net: Name=NetJ102_B5
+Added Pin To Net: NetName=NetJP10_1 Pin=JP10-1
+Added Pin To Net: NetName=NetJP10_1 Pin=JP11-1
+Added Pin To Net: NetName=NetJP10_1 Pin=Q1-3
+Added Pin To Net: NetName=NetJP10_1 Pin=R32-2
+Added Net: Name=NetJP10_1
+Added Pin To Net: NetName=NetJP12_1 Pin=JP12-1
+Added Pin To Net: NetName=NetJP12_1 Pin=JP13-1
+Added Pin To Net: NetName=NetJP12_1 Pin=Q6-3
+Added Pin To Net: NetName=NetJP12_1 Pin=R36-2
+Added Net: Name=NetJP12_1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=S3-1
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=S3-2
+Added Net: Name=NetR19_2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=S3-3
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=S3-4
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetR108_2 Pin=R108-2
+Added Pin To Net: NetName=NetR108_2 Pin=S101-1
+Added Net: Name=NetR108_2
+Added Pin To Net: NetName=OSCI Pin=C107-2
+Added Pin To Net: NetName=OSCI Pin=IC100-39
+Added Pin To Net: NetName=OSCI Pin=Y100-1
+Added Net: Name=OSCI
+Added Pin To Net: NetName=OSCO Pin=IC100-40
+Added Pin To Net: NetName=OSCO Pin=R106-2
+Added Net: Name=OSCO
+Added Pin To Net: NetName=out_a Pin=IC8-7
+Added Pin To Net: NetName=out_a Pin=Q1-1
+Added Pin To Net: NetName=out_a Pin=R32-1
+Added Pin To Net: NetName=out_a Pin=R34-1
+Added Pin To Net: NetName=out_a Pin=R34-2
+Added Net: Name=out_a
+Added Pin To Net: NetName=out_b Pin=IC8-5
+Added Pin To Net: NetName=out_b Pin=Q6-1
+Added Pin To Net: NetName=out_b Pin=R35-1
+Added Pin To Net: NetName=out_b Pin=R35-2
+Added Pin To Net: NetName=out_b Pin=R36-1
+Added Net: Name=out_b
+Added Pin To Net: NetName=PGEC1 Pin=IC100-17
+Added Pin To Net: NetName=PGEC1 Pin=J101-5
+Added Pin To Net: NetName=PGEC1 Pin=R114-1
+Added Net: Name=PGEC1
+Added Pin To Net: NetName=PGED1 Pin=IC100-18
+Added Pin To Net: NetName=PGED1 Pin=J101-4
+Added Pin To Net: NetName=PGED1 Pin=R115-2
+Added Net: Name=PGED1
+Added Pin To Net: NetName=PWM_1H Pin=IC100-58
+Added Pin To Net: NetName=PWM_1H Pin=J5-17
+Added Net: Name=PWM_1H
+Added Pin To Net: NetName=PWM_1L Pin=IC8-2
+Added Pin To Net: NetName=PWM_1L Pin=IC100-59
+Added Pin To Net: NetName=PWM_1L Pin=JP2-2
+Added Pin To Net: NetName=PWM_1L Pin=JP5-1
+Added Net: Name=PWM_1L
+Added Pin To Net: NetName=PWM_2H Pin=IC100-62
+Added Pin To Net: NetName=PWM_2H Pin=J5-2
+Added Net: Name=PWM_2H
+Added Pin To Net: NetName=PWM_2L Pin=IC8-4
+Added Pin To Net: NetName=PWM_2L Pin=IC100-63
+Added Pin To Net: NetName=PWM_2L Pin=JP1-2
+Added Pin To Net: NetName=PWM_2L Pin=JP4-1
+Added Net: Name=PWM_2L
+Added Pin To Net: NetName=PWM_3H Pin=IC100-60
+Added Pin To Net: NetName=PWM_3H Pin=JP7-1
+Added Net: Name=PWM_3H
+Added Pin To Net: NetName=PWM_3L Pin=IC100-61
+Added Pin To Net: NetName=PWM_3L Pin=JP6-1
+Added Net: Name=PWM_3L
+Added Pin To Net: NetName=PWM_12H Pin=IC100-53
+Added Pin To Net: NetName=PWM_12H Pin=JP9-1
+Added Net: Name=PWM_12H
+Added Pin To Net: NetName=PWM_12L Pin=IC100-54
+Added Pin To Net: NetName=PWM_12L Pin=JP8-1
+Added Net: Name=PWM_12L
+Added Pin To Net: NetName=RB_5 Pin=IC100-43
+Added Pin To Net: NetName=RB_5 Pin=J6-16
+Added Net: Name=RB_5
+Added Pin To Net: NetName=RB_6 Pin=IC100-44
+Added Pin To Net: NetName=RB_6 Pin=J6-9
+Added Net: Name=RB_6
+Added Pin To Net: NetName=RC_10 Pin=IC100-45
+Added Pin To Net: NetName=RC_10 Pin=J6-1
+Added Net: Name=RC_10
+Added Pin To Net: NetName=RD_8 Pin=IC100-42
+Added Pin To Net: NetName=RD_8 Pin=J6-2
+Added Net: Name=RD_8
+Added Pin To Net: NetName=RXCAN_0 Pin=IC4-4
+Added Pin To Net: NetName=RXCAN_0 Pin=IC100-1
+Added Net: Name=RXCAN_0
+Added Pin To Net: NetName=RXCAN_1 Pin=IC5-4
+Added Pin To Net: NetName=RXCAN_1 Pin=IC100-5
+Added Net: Name=RXCAN_1
+Added Pin To Net: NetName=RXCAN_2 Pin=IC6-4
+Added Pin To Net: NetName=RXCAN_2 Pin=IC100-4
+Added Net: Name=RXCAN_2
+Added Pin To Net: NetName=RXCAN_3 Pin=IC7-4
+Added Pin To Net: NetName=RXCAN_3 Pin=IC100-15
+Added Net: Name=RXCAN_3
+Added Pin To Net: NetName=RX Pin=IC100-21
+Added Pin To Net: NetName=RX Pin=J5-6
+Added Pin To Net: NetName=RX Pin=J7-6
+Added Pin To Net: NetName=RX Pin=JP101-1
+Added Net: Name=RX
+Added Pin To Net: NetName=SCK_1 Pin=IC100-46
+Added Pin To Net: NetName=SCK_1 Pin=J2-5
+Added Net: Name=SCK_1
+Added Pin To Net: NetName=SDI_1 Pin=IC100-51
+Added Pin To Net: NetName=SDI_1 Pin=J2-7
+Added Pin To Net: NetName=SDI_1 Pin=R109-1
+Added Net: Name=SDI_1
+Added Pin To Net: NetName=SDO_1 Pin=IC100-52
+Added Pin To Net: NetName=SDO_1 Pin=J2-3
+Added Pin To Net: NetName=SDO_1 Pin=R110-1
+Added Net: Name=SDO_1
+Added Pin To Net: NetName=SS_1 Pin=IC100-50
+Added Pin To Net: NetName=SS_1 Pin=J2-2
+Added Pin To Net: NetName=SS_1 Pin=R111-1
+Added Net: Name=SS_1
+Added Pin To Net: NetName=T3CK Pin=IC100-11
+Added Pin To Net: NetName=T3CK Pin=J7-4
+Added Net: Name=T3CK
+Added Pin To Net: NetName=TXCAN_0 Pin=IC4-1
+Added Pin To Net: NetName=TXCAN_0 Pin=IC100-3
+Added Net: Name=TXCAN_0
+Added Pin To Net: NetName=TXCAN_1 Pin=IC5-1
+Added Pin To Net: NetName=TXCAN_1 Pin=IC100-2
+Added Net: Name=TXCAN_1
+Added Pin To Net: NetName=TXCAN_2 Pin=IC6-1
+Added Pin To Net: NetName=TXCAN_2 Pin=IC100-6
+Added Net: Name=TXCAN_2
+Added Pin To Net: NetName=TXCAN_3 Pin=IC7-1
+Added Pin To Net: NetName=TXCAN_3 Pin=IC100-14
+Added Net: Name=TXCAN_3
+Added Pin To Net: NetName=TX Pin=IC100-22
+Added Pin To Net: NetName=TX Pin=J5-14
+Added Pin To Net: NetName=TX Pin=J7-5
+Added Pin To Net: NetName=TX Pin=JP100-1
+Added Net: Name=TX
+Added Pin To Net: NetName=uart-RX Pin=IC101-6
+Added Pin To Net: NetName=uart-RX Pin=JP101-2
+Added Net: Name=uart-RX
+Added Pin To Net: NetName=uart-TX Pin=IC101-5
+Added Pin To Net: NetName=uart-TX Pin=JP100-2
+Added Net: Name=uart-TX
+Added Pin To Net: NetName=USBC_N Pin=IC100-36
+Added Pin To Net: NetName=USBC_N Pin=J102-A7
+Added Pin To Net: NetName=USBC_N Pin=J102-B7
+Added Net: Name=USBC_N
+Added Pin To Net: NetName=USBC_P Pin=IC100-37
+Added Pin To Net: NetName=USBC_P Pin=J102-A6
+Added Pin To Net: NetName=USBC_P Pin=J102-B6
+Added Net: Name=USBC_P
+Added Class: Name=CAN
+Added Class: Name=H_Bridge
+Added Class: Name=MCU
+Added Class: Name=OUTPUTs
+Added Class: Name=POWER
+Added Class: Name=AN[0..13]
+Added Class: Name=AN_[0..13]
+Added Class: Name=CANH/L[0..3]
+Added Class: Name=INT[1..4]
+Added Class: Name=PINs[42..45]
+Added Class: Name=RX/TX[0..3]
+Added Differential Pair: Name=D2
+Added Differential Pair: Name=USBC
