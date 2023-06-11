@@ -1,0 +1,62 @@
+Added Component: Designator=J5(TE_1-776087-5)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': 'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-776087-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J6(TE_1-776087-5)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': 'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-776087-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3v3 Pin=J5-1
+Added Pin To Net: NetName=PWM_2H Pin=J5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=MOSFET_B Pin=J5-5
+Added Pin To Net: NetName=RX Pin=J5-6
+Added Pin To Net: NetName=INT_3 Pin=J5-7
+Added Pin To Net: NetName=+5V Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=NetJ5_10 Pin=J5-10
+Added Pin To Net: NetName=NetJ5_11 Pin=J5-11
+Added Pin To Net: NetName=GND Pin=J5-12
+Added Pin To Net: NetName=NetC31_2 Pin=J5-13
+Added Pin To Net: NetName=TX Pin=J5-14
+Added Pin To Net: NetName=INT_1 Pin=J5-15
+Added Pin To Net: NetName=NetJ5_16 Pin=J5-16
+Added Pin To Net: NetName=PWM_1H Pin=J5-17
+Added Pin To Net: NetName=NetJ5_18 Pin=J5-18
+Added Pin To Net: NetName=MOSFET_A Pin=J5-19
+Added Pin To Net: NetName=NetC35_2 Pin=J5-20
+Added Pin To Net: NetName=INT_4 Pin=J5-21
+Added Pin To Net: NetName=INT_2 Pin=J5-22
+Added Pin To Net: NetName=GND Pin=J5-23
+Added Pin To Net: NetName=RC_10 Pin=J6-1
+Added Pin To Net: NetName=RD_8 Pin=J6-2
+Added Pin To Net: NetName=CANH_0 Pin=J6-3
+Added Pin To Net: NetName=CANL_1 Pin=J6-4
+Added Pin To Net: NetName=CANH_3 Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=C_AN_0 Pin=J6-7
+Added Pin To Net: NetName=C_AN_12 Pin=J6-8
+Added Pin To Net: NetName=RB_6 Pin=J6-9
+Added Pin To Net: NetName=+5V Pin=J6-10
+Added Pin To Net: NetName=CANL_0 Pin=J6-11
+Added Pin To Net: NetName=CANH_2 Pin=J6-12
+Added Pin To Net: NetName=CANL_3 Pin=J6-13
+Added Pin To Net: NetName=+5V Pin=J6-14
+Added Pin To Net: NetName=C_AN_3 Pin=J6-15
+Added Pin To Net: NetName=RB_5 Pin=J6-16
+Added Pin To Net: NetName=GND Pin=J6-17
+Added Pin To Net: NetName=CANH_1 Pin=J6-18
+Added Pin To Net: NetName=CANL_2 Pin=J6-19
+Added Pin To Net: NetName=+24VBAT Pin=J6-20
+Added Pin To Net: NetName=GND Pin=J6-21
+Added Pin To Net: NetName=C_AN_9 Pin=J6-22
+Added Pin To Net: NetName=C_AN_13 Pin=J6-23
+Added Member To Class: ClassName=OUTPUTs Member=Component J5 1-776087-5
+Added Member To Class: ClassName=OUTPUTs Member=Component J6 1-776087-5
