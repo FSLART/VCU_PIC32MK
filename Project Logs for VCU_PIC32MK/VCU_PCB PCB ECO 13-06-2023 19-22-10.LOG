@@ -1,0 +1,3 @@
+Added Component: Designator=MTH1(Mounting_Hole_3.5mm)
+Added Pin To Net: NetName=GND Pin=MTH1-1
+Added Member To Class: ClassName=OUTPUTs Member=Component MTH1 Mounting_Hole
