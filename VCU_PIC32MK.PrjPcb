@@ -371,95 +371,133 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document20]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document21]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB-RoundHoles.TXT
+DocumentPath=Project Outputs for VCU_PIC32MK\Design Rule Check - VCU_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB-SlotHoles.TXT
+DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB.DRR
+DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.EXTREP
+DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBL
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBO
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBP
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBS
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GD1
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GG1
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM1
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM13
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM15
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GPB
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GPT
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTL
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTO
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTP
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTS
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB.LDP
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.REP
+DocumentPath=Project Outputs for VCU_PIC32MK\NC Drill Output\VCU_PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for VCU_PIC32MK\Gerber Output\VCU_PCB.RUL
 DItemRevisionGUID=
 

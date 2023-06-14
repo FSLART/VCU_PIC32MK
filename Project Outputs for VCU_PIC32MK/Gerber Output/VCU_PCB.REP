@@ -2,8 +2,74 @@
 FileName = VCU_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : VCU_PCB.GTL
+Generating : Mechanical 15
+      File : VCU_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+    D129
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : VCU_PCB.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D16
+    D127
+    D128
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : VCU_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : VCU_PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D49
+    D115
+    D116
+    D117
+    D118
+    D119
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : VCU_PCB.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -11,10 +77,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
-    D12
-    D13
-    D15
     D17
     D18
     D19
@@ -52,27 +114,13 @@ Used DCodes :
     D51
     D52
     D53
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : VCU_PCB.GBL
+Generating : Bottom Solder
+      File : VCU_PCB.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -80,59 +128,110 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D12
-    D13
-    D15
-    D40
-    D41
-    D47
-    D98
-    D99
-    D100
-    D101
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
+    D78
+    D79
+    D85
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D121
+    D122
+    D123
+    D124
+    D125
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 15
-      File : VCU_PCB.GM15
+Generating : Top Solder
+      File : VCU_PCB.GTS
 
-    Adding Layer      : Mechanical 15
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : VCU_PCB.GBO
+
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
     D11
-    D129
+    D12
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : VCU_PCB.GM1
+Generating : Top Overlay
+      File : VCU_PCB.GTO
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
     D15
-    D126
+    D16
 *************************************************************
 
 *************************************************************
@@ -194,65 +293,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : VCU_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D76
-    D77
-    D83
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D121
-    D122
-    D123
-    D124
-    D125
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : VCU_PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : VCU_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Bottom Pad Master
       File : VCU_PCB.GPB
 
@@ -262,9 +302,9 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D40
-    D41
-    D47
+    D42
+    D43
+    D49
     D103
     D104
     D105
@@ -282,10 +322,49 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : VCU_PCB.GTP
+Generating : Bottom Layer
+      File : VCU_PCB.GBL
 
-    Adding Layer      : Top Paste
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D42
+    D43
+    D49
+    D98
+    D99
+    D100
+    D101
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : VCU_PCB.GTL
 
     Adding Layer      : Top Layer
 
@@ -293,6 +372,10 @@ Generating : Top Paste
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
     D17
     D18
     D19
@@ -330,105 +413,22 @@ Used DCodes :
     D51
     D52
     D53
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : VCU_PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D40
-    D41
-    D47
-    D115
-    D116
-    D117
-    D118
-    D119
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : VCU_PCB.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D127
-    D128
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : VCU_PCB.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D35
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
 *************************************************************
 
 *************************************************************
