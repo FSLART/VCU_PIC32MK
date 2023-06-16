@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+24V Pin=C33-2
+Removed Pin From Net: NetName=+24V Pin=C34-2
+Removed Pin From Net: NetName=+24V Pin=IC8-6
+Removed Pin From Net: NetName=+24V Pin=IC9-12
+Added Component: Designator=JP3(SolderJumper_Single)
+Added Pin To Net: NetName=+5V Pin=C33-2
+Added Pin To Net: NetName=+5V Pin=C34-2
+Added Pin To Net: NetName=+5V Pin=IC8-6
+Added Pin To Net: NetName=NetIC9_12 Pin=IC9-12
+Added Pin To Net: NetName=NetIC9_12 Pin=JP3-1
+Added Net: Name=NetIC9_12
+Added Member To Class: ClassName=H_Bridge Member=Component JP3 Solder Jumper
